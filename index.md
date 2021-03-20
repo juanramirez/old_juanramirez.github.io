@@ -6,7 +6,7 @@ title: Juan Ramírez Ruiz
 I'm Juan Ramírez, a software developer living in Ronda (Málaga, Spain). I work for [Telefónica](https://www.telefonica.com/), the biggest spanish telecommunications company. If you want to know more about my professional profile, please take a look to [my LinkedIn page](https://www.linkedin.com/in/juanramirez/).
 
 
-<> ### Create a repository from this template
+<!--> ### Create a repository from this template
 
 <> [Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Use this template` button on the top right of the page.
 
@@ -90,4 +90,4 @@ I'm Juan Ramírez, a software developer living in Ronda (Málaga, Spain). I work
 
 <> ## References
 
-<> This page
+<> This page-->
